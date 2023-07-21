@@ -28,6 +28,7 @@
 				"memory_usage": true,
 				"allocated_memory": true,
 				"cpu": false,
+				"gpu_utilization": false,
 				"time": false,
 				"gpu": false
 			},
@@ -54,6 +55,7 @@
 				"memory_usage": false,
 				"allocated_memory": false,
 				"cpu": true,
+				"gpu_utilization": true,
 				"time": false,
 				"gpu": true
 			},
