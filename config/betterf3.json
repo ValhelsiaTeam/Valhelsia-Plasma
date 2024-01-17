@@ -5,6 +5,7 @@
 		"shadow_text": true,
 		"auto_start": false,
 		"animationSpeed": 1.0,
+		"always_show_ping": false,
 		"hide_debug_crosshair": false,
 		"background_color": 1867534416,
 		"space_modules": false,
@@ -257,25 +258,9 @@
 			"disabled_color": 16733525,
 			"lines": {
 				"help": true,
-				"pie_graph": true,
-				"fps_tps": true
-			},
-			"enabled": true
-		}, 
-		{
-			"empty_lines": 5,
-			"name": "empty",
-			"lines": {
-				"nothing": true
-			},
-			"enabled": true
-		}, 
-		{
-			"name": "miscleft",
-			"name_color": 16645526,
-			"value_color": 5636095,
-			"lines": {
-				"misc_left": true
+				"fps_tps_new": true,
+				"ping": true,
+				"pie_graph_new": true
 			},
 			"enabled": true
 		}
