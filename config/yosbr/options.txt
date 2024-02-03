@@ -9,6 +9,7 @@ maxFps:120
 resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","file/xali\u0027s Enchanted Books v0.12.0.zip","file/xali\u0027s Potions v1.0.0.zip","file/xali\u0027s Enchanced Biome River \u0026 Pond v1.2.2.zip","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Enhanced Vanilla v1.11.1.zip","file/xali\u0027s Bushy Leaves v3.4.1.zip"]
 incompatibleResourcePacks:["minecraft:supporteatinganimation","file/xali\u0027s Enchanted Books v0.12.0.zip","file/xali\u0027s Potions v1.0.0.zip","file/xali\u0027s Enchanced Biome River \u0026 Pond v1.2.2.zip","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Enhanced Vanilla v1.11.1.zip","file/xali\u0027s Bushy Leaves v3.4.1.zip"]
 mipmapLevels:0
+tutorialStep:none
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
